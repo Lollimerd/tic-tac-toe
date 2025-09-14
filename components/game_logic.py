@@ -1,5 +1,5 @@
 from utils.constants import *
-from board import Board
+from .board import Board
 from Ai_player import ai_player
 
 
