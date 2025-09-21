@@ -97,7 +97,7 @@ The AI player uses the minimax algorithm with alpha-beta pruning optimization:
 ### Main Menu
 The main menu allows players to select their preferred game mode and difficulty level:
 
-![Tic Tac Toe Main Menu](tictactoe-main-menu.png)
+![Tic Tac Toe Main Menu](images/main-menu.png)
 
 - Simple and clean interface with 5 options
 - Select an option by clicking or using number keys 1-5
@@ -106,7 +106,7 @@ The main menu allows players to select their preferred game mode and difficulty 
 ### Gameplay
 The gameplay screen shows the current state of the game:
 
-![Tic Tac Toe Gameplay](tictactoe-gameplay.png)
+![Tic Tac Toe Gameplay](images/gameplay.png)
 
 - Clear 3x3 grid with distinct X and O markers
 - Information bar at the bottom shows:
@@ -117,7 +117,7 @@ The gameplay screen shows the current state of the game:
 ### Game Over
 When the game ends, an overlay appears showing the result:
 
-![Tic Tac Toe Game Over](tictactoe-game-over.png)
+![Tic Tac Toe Game Over](images/game-over.png)
 
 - Semi-transparent overlay with game result
 - Red line highlights the winning combination
