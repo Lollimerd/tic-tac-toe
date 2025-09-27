@@ -32,12 +32,14 @@ A fully featured Tic Tac Toe game built with Python and Pygame, featuring multip
 
 ```
 tic-tac-toe/
-├── main.py          # Main game entry point and game loop
-├── game_logic.py    # Game state and rules management
-├── board.py         # Board representation and operations
-├── Ai_player.py     # AI opponent implementation
-├── renderer.py      # Graphics and UI rendering
-└── constants.py     # Game constants and configuration
+├── main.py # Main game entry point and game loop
+├── Ai_player.py # AI opponent implementation
+├── components/
+│ ├── game_logic.py # Game state and rules management
+│ ├── board.py # Board representation and operations
+│ └── renderer.py # Graphics and UI rendering
+└── utils/
+└── constants.py # Game constants and configuration
 ```
 
 ## Components
